@@ -288,3 +288,12 @@ git stash drop
 *This command discards the most recently stashed changeset.*
 
 ![git-stash-drop](git-photo/git-stash-drop.png)
+
+```sh
+git rebase
+```
+*Rebasing lets you move branches around, which helps you avoid unnecessary merge commits. The resulting linear history is often much easier to understand and explore*
+
+
+
+![git-rebase](git-photo/git-rebase.png)
